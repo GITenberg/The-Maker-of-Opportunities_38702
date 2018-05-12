@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Frederick, Edmund
     alias: Frederick, E. (Edmund)
-    birthdate: &id001 1870
+    birthdate: 1870
     gutenberg_agent_id: '6450'
     url: http://www.gutenberg.org/2009/agents/6450
 covers:
@@ -14,12 +14,14 @@ creator:
   author:
     agent_name: Gibbs, George
     alias: Gibbs, George Fort
-    birthdate: *id001
+    birthdate: 1870
     deathdate: 1942
     gutenberg_agent_id: '4037'
     url: http://www.gutenberg.org/2009/agents/4037
     wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38702#The-Maker-of-Opportunities
 gutenberg_issued: '2012-01-28'
 gutenberg_type: Text
 identifiers:
